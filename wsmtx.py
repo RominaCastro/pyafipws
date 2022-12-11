@@ -22,7 +22,7 @@ from builtins import str
 __author__ = "Mariano Reingart <reingart@gmail.com>"
 __copyright__ = "Copyright (C) 2010-2021 Mariano Reingart"
 __license__ = "LGPL-3.0-or-later"
-__version__ = "3.15d"
+__version__ = "3.16a"
 
 import datetime
 import decimal
